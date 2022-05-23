@@ -238,3 +238,6 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/ZenexGT/23kLua-Admin
 
 --creator:Suki
                           ------WS2 FARM----------- 
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/ZenexGT/weapon-sim-2-farm/main/Ws2%20farm"), true))()
+
+--creator: Suki And Wolve
