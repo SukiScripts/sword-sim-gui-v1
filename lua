@@ -237,3 +237,4 @@ game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageReque
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/ZenexGT/23kLua-AdminV2/main/SS%20Admin"), true))()
 
 --creator:Suki
+                          ------WS2 FARM----------- 
