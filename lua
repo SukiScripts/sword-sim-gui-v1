@@ -241,3 +241,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/ZenexGT/23kLua-Admin
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/ZenexGT/weapon-sim-2-farm/main/Ws2%20farm"), true))()
 
 --creator: Suki And Wolve
+                                     ----- ORPOBY GUI SCRIPT ------
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/icuck/Sword-Simulator-GUI/master/main.lua"), true))()
+
+--creator:orpoby
