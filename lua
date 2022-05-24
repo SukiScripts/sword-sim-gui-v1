@@ -245,3 +245,5 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/ZenexGT/weapon-sim-2
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/icuck/Sword-Simulator-GUI/master/main.lua"), true))()
 
 --creator:orpoby
+                                           ------------ Admin V2 -----------
+loadstring(game:HttpGet("https://pastebin.com/raw/v6E9BmFK",true))();
